@@ -1,7 +1,7 @@
 
 # ApiRestPersonManager
-Api Rest - Santander Bootcamp fullstack 2021
-DIO - Digital Innovation One
+## Api Rest - Santander Bootcamp fullstack 2021
+### DIO - Digital Innovation One
 
 REST API people management system with Spring Boot
 In this class a small system for managing people in a company was developed through a REST API, created with Spring Boot.
@@ -24,9 +24,12 @@ http://localhost:8080/api/v1/people
 
 Requirements used for project execution:
 
-Java 11.
-Maven 4.0.0.
-Intellj IDEA Community Edition .
-Heroku for deploying the project in the cloud.
+-Java 11.
+
+-Maven 4.0.0.
+
+-Intellj IDEA Community Edition.
+
+-Heroku for deploying the project in the cloud.
 Link Heroku:
 https://personmanagerapinew.herokuapp.com/api/v1/people
